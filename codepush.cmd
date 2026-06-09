@@ -1,3 +1,4 @@
 git add -A
-git commit -m $1
+set commitmsg=%1
+git commit -m %commitmsg% 
 git push origin main
