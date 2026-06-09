@@ -8,4 +8,8 @@ python3 -m venv myenv
 source myenv/bin/activate
 
 python BasicDAG1.py
+
+
+python BasicDAG2.py
+
 ```
